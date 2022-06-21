@@ -1,9 +1,13 @@
 # 알고리즘 문제 풀이 정리
 
+- 틀린문제
+    - [프로그래머스](https://github.com/jihoGit/Algorithm/blob/main/programmers/%ED%8B%80%EB%A6%B0%EB%AC%B8%EC%A0%9C.md)
+
+&nbsp;    
+
 - 작성 규칙
 
-&nbsp;
-
+---
 # 제목
 
 - 문제 출처 : 
@@ -16,4 +20,5 @@
 ```
 
 ## 3. 개선할 점
+---
 
