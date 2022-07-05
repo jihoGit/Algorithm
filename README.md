@@ -1,9 +1,9 @@
 # 알고리즘 문제 풀이 정리
 
 - 틀린문제
-    - [프로그래머스](https://github.com/jihoGit/Algorithm/blob/main/programmers/%ED%8B%80%EB%A6%B0%EB%AC%B8%EC%A0%9C.md)
+    - [프로그래머스](https://github.com/jihoGit/Algorithm/blob/main/programmers/다시풀기.md)
 
-    - [BOJ](https://github.com/jihoGit/Algorithm/blob/main/BOJ/%ED%8B%80%EB%A6%B0%EB%AC%B8%EC%A0%9C.md)
+    - [BOJ](https://github.com/jihoGit/Algorithm/blob/main/BOJ/다시풀기.md)
 
 &nbsp;    
 
